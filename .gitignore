@@ -3,6 +3,7 @@ project_setup.sh
 local_models
 create_rag_with_llm_orig_project_backup
 run.sh
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

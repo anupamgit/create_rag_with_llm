@@ -1,4 +1,5 @@
 openai==1.35.10
 pandas==2.0.3
+python-dotenv==1.0.1
 qdrant_client==1.10.0
 sentence_transformers==3.0.1
