@@ -1,0 +1,67 @@
+# local files
+project_setup.sh
+local_models
+create_rag_with_llm_orig_project_backup
+run.sh
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+lib/
+lib64/
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+*.egg-info/
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pipenv
+*.lock
+
+# poetry
+poetry.lock
+
+# mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
